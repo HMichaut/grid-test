@@ -1,0 +1,55 @@
+body {
+  background-color: #123;
+}
+
+.logo {
+  font: 13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+  color: #ddd;
+  height: 200px;
+  background: url(../img/h1.gif) no-repeat;
+}
+
+.download-text {
+  font: 13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+  color: #ddd;
+  width: 300px;
+  padding: 120px 0 0;
+  display: inline;
+}
+
+.download-text a{
+  font: 13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+  line-height: 20px;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  color: #fc3;
+}
+
+.separator {
+  font: 13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+  color: #ddd;
+  clear: both;
+  margin: 0;
+  font-size: 100%;
+  margin-bottom: 20px;
+  border: 0 solid #ccc;
+  height: 0;
+  border-top: 1px solid #999;
+  border-bottom: 1px dashed #666;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 2px 0 0;
+}
+
+.download-button a {
+  font: 13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+  line-height: 20px;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  color: #fc3;
+  display: block;
+}
